@@ -1,0 +1,15 @@
+====Instruction====
+
+Read the database.txt to create a database
+
+Now you have a clean localdatabase
+
+start by creating your account on the register.php 
+or simply insert data on the login table
+
+
+you can now login using your account :p enjoy
+
+
+Please use this application for "Personal Use" . 
+Use it as a guide. Do not distribute this without the authors permission 
